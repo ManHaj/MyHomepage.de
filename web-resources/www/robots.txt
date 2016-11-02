@@ -1,0 +1,5 @@
+# Allow any robot full access
+User-agent: *
+Disallow:
+
+Sitemap: https://repaircafe-altdorf.de/sitemap.xml

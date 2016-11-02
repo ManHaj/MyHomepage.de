@@ -1,0 +1,19 @@
+= Fürstenschlagverein Altdorf: Termine
+:linkcss:
+:stylesdir: styles
+:disable-javascript:
+:docinfo1:
+:icons:
+:imagesdir: images
+:keywords: Fürstenschlagverein, Altdorf, Nürnberg, Vorstadtverein
+:description: Fürstenschlagverein in Altdorf bei Nürnberg
+
+include::head-area.include[]
+
+
+== Fürstenschlagverein Altdorf: Termine
+
+=== Nikolausfeier am 9. Dezember 2016 um 17:00
+
+
+

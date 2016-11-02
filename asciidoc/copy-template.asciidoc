@@ -1,0 +1,15 @@
+= Manfred Hajek: Thema
+:linkcss:
+:stylesdir: styles
+:disable-javascript:
+:docinfo1:
+:icons:
+:imagesdir: images
+:keywords: Homepage
+:description: Homepage von Manfred Hajek
+
+include::head-area.include[]
+
+== Überschrift
+
+Hier kommen die Inhalte

@@ -1,0 +1,20 @@
+= Manfred Hajek
+:linkcss:
+:stylesdir: styles
+:disable-javascript:
+:docinfo1:
+:icons:
+:imagesdir: images
+:keywords: Fürstenschlag, Altdorf, Manfred Hajek
+:description: Manfred Hajek Altdorf bei Nürnberg
+
+include::head-area.include[]
+
+== Willkommen auf meiner Homepage
+image::myhomepage_banner.jpg["Meine Homepage",width="50%"]
+
+- http://www.fuerstenschlag-verein.de[Hier geht's weiter zum Fürstenschlagverein]
+
+
+- http://www.altdorfer-lauftreff.de[Hier geht's weiter zum Lauftreff Altdorf]
+

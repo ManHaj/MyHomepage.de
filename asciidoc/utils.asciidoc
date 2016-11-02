@@ -1,0 +1,24 @@
+= Manfred Hajek: Nützliches
+:linkcss:
+:stylesdir: styles
+:disable-javascript:
+:docinfo1:
+:icons:
+:imagesdir: images
+:keywords: Manfred Hajek, Tipps
+:description: Manfred Hajek in Altdorf bei Nürnberg
+
+include::head-area.include[]
+
+== Manfred Hajek: Nützliches
+
+In der Rubrik Nützliches finden Sie
+
+- http://wurzelsepp.bplaced.net/Fuerstenschlag/downloads/geraeteliste2014.pdf[Geräteliste des Fürstenschlagvereins - Stand April 2014 (.p- - df Datei)]
+
+
+- http://wurzelsepp.bplaced.net/Fuerstenschlag/downloads/Herzinfarkt_und_Schlaganfall.pdf[Informationen zur Früherkennung von Herzinfakt und Schlaganfall (.pdf Datei)]
+
+
+- http://wurzelsepp.bplaced.net/Fuerstenschlag/downloads/WLGHeizkostenabrechnung.ppt[Infos zur Heizkostenabrechnung der WLG (PowerPoint)]
+

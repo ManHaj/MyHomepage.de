@@ -1,0 +1,16 @@
+= Manfred Hajek: Kontakt
+:linkcss:
+:stylesdir: styles
+:disable-javascript:
+:docinfo1:
+:icons:
+:imagesdir: images
+:keywords: Homepage
+:description: Manfred Hajek in Altdorf bei Nürnberg
+
+include::head-area.include[]
+
+== Manfred Hajek: Kontakt
+
+EMail: info@manfredhajek.de
+
